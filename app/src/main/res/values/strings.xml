@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin-MVVM</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_placeholder_password">password</string>
+    <string name="login_placeholder_email">email</string>
+    <string name="need_internet_posts">Need internet to fetch latest posts!</string>
+    <string name="failed_post_try_again">Failed to load posts. Please try again later.</string>
+    <string name="login_checkbox_remember">Remember me</string>
+</resources>

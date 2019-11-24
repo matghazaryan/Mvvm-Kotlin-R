@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_height_1">60dp</dimen>
+    <dimen name="activity_medium_margin">20dp</dimen>
+    <dimen name="activity_small_margin">10dp</dimen>
+</resources>
